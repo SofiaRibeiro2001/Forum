@@ -1,0 +1,18 @@
+.fundo{
+    background-color: #FFDBAA;
+    text-align: center;
+    font-family: Georgia;
+}
+
+.botao{
+    font-family: Georgia;
+    background-color:azure;
+    border-radius: 5px;
+    color:burlywood;
+    padding: 5px;
+    transition: 0.5s;
+}
+.botao:hover{
+    background-color:black;
+}
+

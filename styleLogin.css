@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.fundo{
+    background-color: #FFDBAA;
+    text-align: center;
+    font-family: Georgia;
+    background-image: url(https://renascereduca.com.br/assets/frontend/default-new/image/login-security.gif);
+    background-position: left bottom;
+    background-repeat: no-repeat;
+    
+}
+
+.outroFundo{
+    background-color: #FFDBAA;
+    text-align: center;
+    font-family: Georgia;
+    background-image: url(https://cdn-icons-png.flaticon.com/512/9144/9144898.png);
+    background-position: center bottom;
+    background-repeat: no-repeat;
+    background-size: 200px 200px;
+    
+}
+
+
+.titulo{
+    background-color: white;
+    color: black;
+    padding: 10px;
+    text-align: center;
+    font-family: Georgia;
+}
+
+.botao{
+    font-family: Georgia;
+    background-color:white;
+    border-radius: 5px;
+    color:burlywood;
+    padding: 5px;
+    transition: 0.5s;
+}
+.botao:hover{
+    background-color:black;
+}
